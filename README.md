@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://www.facebook.com/aroloroso/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/101156843/235120554-8e015030-5ac0-4fc9-8259-cbcbcf46ef6b.png" alt="Andrew Oloroso" /></a>
+    <img src="https://user-images.githubusercontent.com/101156843/235120554-8e015030-5ac0-4fc9-8259-cbcbcf46ef6b.png" alt="Andrew Oloroso" />
+  </a>
 </p>
 
 <p align="center">
